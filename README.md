@@ -1,0 +1,1 @@
+This repository contains the data (ASV tables, taxonomic assignations, RAxML phylogeny, environmental data and metadata) and R-scripts from the manuscript "The community of Marine Alveolate parasites in the Atlantic inflow to the Arctic Ocean is structured by season, depth and water mass" by Elianne Egge, Daniel Vaulot, Aud Larsen and Bente Edvardsen. 
