@@ -1,0 +1,12 @@
+Order	"Mean reads (%),
+ pico"	"Mean reads (%),
+ nano-micro"	Both	Only 0.4-3	Only 3-200	nASVs pico	"nASVs nano-
+micro"	nASVs total	"PR2 ref.
+sequences"
+Dino-Group-I	28.3	49.6	221	33	156	254 (14.6%)	377 (21.5%)	410 (19.1%)	230 (24.7%)
+Dino-Group-II	74.8	53.9	1034	357	198	1391 (79.8%)	1232 (70.4%)	1589 (73.9%)	632 (68%)
+Dino-Group-III	1.7	3.1	50	7	31	57 (3.3%)	81 (4.6%)	88 (4.1%)	28 (3%)
+Dino-Group-IV	1.5	0.9	23	3	17	26 (1.5%)	40 (2.3%)	43 (2%)	13 (1.4%)
+Dino-Group-V	0.6	0.5	13	1	1	14 (0.8%)	14 (0.8%)	15 (0.7%)	27 (2.9%)
+Syndiniales_X	0.1	2.7	2	0	4	2 (0.1%)	6 (0.3%)	6 (0.3%)	"NA"
+Sum 0 0 1343	401	407	1744	1750	2151	903

@@ -1,0 +1,4 @@
+family	colorDG-I-Clade-1	#0075DCDG-I-Clade-2	#94FFB5
+DG-I-Clade-4	#C4451CDG-I-Clade-5	#C075A6DG-I-Clade-7	#F7E1A0DG-II-Clade-1	#FF0010DG-II-Clade-10-and-11	#E2E2E2DG-II-Clade-14	#FC1CBFDG-II-Clade-15	#F8A19F				DG-II-Clade-20	#85660D	sf043				DG-II-Clade-21	#FBE426	sf043DG-II-Clade-22	#FF5005	both				DG-II-Clade-23	#E0FF66	sf043
+DG-II-Clade-24		sf3200DG-II-Clade-29	#F6222E	sf043				DG-II-Clade-3	#782AB6 sf043				DG-II-Clade-30	#DEA0FD sf043DG-II-Clade-32	#8F7C00 both				DG-II-Clade-33	#5EF1F2	sf043DG-II-Clade-4	#3283FE bothDG-II-Clade-5	#B00068 bothDG-II-Clade-6	#90AD1C bothDG-II-Clade-7	#1CBE4F bothDG-II-Clade-9	#4C005C sf043DG-III_X	#191919 sf043DG-IV-Hematodinium-Group	#9DCC00 sf043
+				Syndiniales_XX	white sf3200Other	grey both
